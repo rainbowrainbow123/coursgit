@@ -1,2 +1,6 @@
 je rajoute du texte ici...
+<<<<<<< HEAD
 blablabla
+=======
+autre blabla
+>>>>>>> 318300dde1496529cfaa608978c1334580a9b71d
